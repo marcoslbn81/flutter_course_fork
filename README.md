@@ -1,5 +1,10 @@
 # flutter_course
 
+![Alt text](image.png)
+
+TODO: hardnessSelector
+TODO: updateTime
+
 A new Flutter project.
 Update.
 
